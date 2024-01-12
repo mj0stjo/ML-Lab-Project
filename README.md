@@ -33,5 +33,5 @@ Instructions for setting up the project environment:
 
 To use the project:
 
-- Open the Credit_Card_Overdue_Prediction.ipynb notebook.
+- Open the `Lab Project Notebook.ipynb` notebook.
 - Run the cells to perform the analysis and view the results.
